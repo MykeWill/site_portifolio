@@ -12,8 +12,24 @@
         "logo":"https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
       },
       {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+      },
+      {
         "name": "Nodejs",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+      },
+      {
+        "name": "Flutter",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/flutter.png"
+      },
+      {
+        "name": "Github",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/github.png"
       },
       {
         "name": "Mongodb",
@@ -32,18 +48,23 @@
   },
   "languages": [
     "Português BR",
-    "Inglês (básico",
+    "Inglês (básico)",
     "Espanhol (básico)"
   ],
   "portfolio": [
     {
       "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "url": "https://github.com/MykeWill/js-developer-pokedex",
       "github": true
     },
     {
       "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "url": "https://github.com/MykeWill/site_portifolio",
+      "github": true
+    },
+    {
+      "name": "Curso Ministrado na DIO - Dart",
+      "url": "https://github.com/MykeWill/calculadora-IMC",
       "github": true
     }
   ],
@@ -51,7 +72,7 @@
     {
       "name": "Dev junior backend / UnZero",
       "period": "2022 - 2023",
-      "description": "https://github.com/Vangeanc3/eetepa_app_frontend"
+      "description": "É maravilhoso está entre pessoas que são ótimas no que fazem"
     },
     {
         "name": "Dev junior frontend / Vangeance Tecnologias",
